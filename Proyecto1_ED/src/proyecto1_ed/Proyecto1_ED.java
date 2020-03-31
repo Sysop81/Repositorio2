@@ -6,7 +6,7 @@
 package proyecto1_ed;
 
 /**
- *
+ * Estoy haciendo un cambio desde la consola de comandos editando con nano
  * @author sysop
  * @version 1.0 24 de Marzo de 2020
  */
